@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo crear un Excel estructurado y fácil de manipu
 
 Este script requiere la librería Pandas de Python:
 
-Instala las dependencias ejecutando:
+Instala las dependencias ejecutando en tu terminal:
 ```bash
 pip3 install pandas
 ```
