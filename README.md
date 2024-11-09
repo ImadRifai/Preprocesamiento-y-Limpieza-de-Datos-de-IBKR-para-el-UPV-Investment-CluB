@@ -1,0 +1,2 @@
+# Preprocesamiento-y-Limpieza-de-Datos-de-IBKR-para-el-UPV-Investment-CluB
+Este proyecto tiene como objetivo crear un Excel estructurado y fácil de manipular a partir de los datos de nuestra Cartera descargados de IBKR, útil para diversos análisis (por ej. el dashboard en Power BI para el Club). El código está diseñado para ser sencillo, comentado y modular, permitiendo así modificaciones de otros miembros en un futuro.
